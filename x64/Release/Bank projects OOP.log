@@ -1,0 +1,77 @@
+﻿  Bank projects OOP.cpp
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsUser.h(186,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+      C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsUser.h(23,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsMainScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsMainScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsInputValdate.h(118,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsInputValdate.h(122,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(28,144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(201,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(212,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsAddNewClientScreen.h(32,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsClientListScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsClientListScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsUpdateClientScreen.h(46,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsTotalBalances.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsMainScreen.h(54,32): warning C4551: function call missing argument list
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsLoginScreen.h(44,14): error C2039: 'RegisterLogin': is not a member of 'clsUser'
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+      C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsUser.h(11,7):
+      see declaration of 'clsUser'
+  

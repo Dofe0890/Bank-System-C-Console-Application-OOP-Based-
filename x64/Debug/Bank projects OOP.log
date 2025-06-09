@@ -1,0 +1,92 @@
+﻿  Bank projects OOP.cpp
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsInputValdate.h(118,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsInputValdate.h(122,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsClientListScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsClientListScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(200,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+      C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(32,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(29,144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(56,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(57,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(58,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(258,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(269,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsAddNewClientScreen.h(32,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsUpdateClientScreen.h(46,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsTotalBalances.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsTransferScreen.h(40,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsTransferScreen.h(45,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsCurrency.h(29,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsUpdateCurrencyRateScreen.h(15,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20projects%20OOP.cpp')
+  
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(388,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsBankClient.h(272,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsUser.h(346,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\abduilaziz\source\repos\Bank projects OOP\Bank projects OOP\clsCurrency.h(70,1): warning C4715: 'clsCurrency::_LoadCurrencysDataFromFile': not all control paths return a value
+  Bank projects OOP.vcxproj -> C:\Users\abduilaziz\source\repos\Bank projects OOP\x64\Debug\Bank projects OOP.exe
